@@ -1,0 +1,33 @@
+# Gradle specific
+.gradle/
+build/
+
+# IDE specific (e.g., IntelliJ IDEA)
+.idea/
+
+# Compiled Java classes
+*.class
+
+# Compiled Gradle build scripts
+.gradle/
+
+# Logs and other temporary files
+*.log
+*.tmp
+
+# Dependency directories
+# Assuming you're using Gradle, you might have dependencies stored in a directory like this:
+# This line can vary depending on your setup, so ensure the directory exists first
+libs/
+
+# Other system-specific files or directories
+# You might want to exclude any files or directories that are specific to your local setup
+
+# Optional: Gradle wrapper scripts
+# Include these if you want to allow others to build your project without needing Gradle installed
+gradlew
+gradlew.bat
+
+# Optional: Gradle settings file
+# Include this if your project has a non-empty settings.gradle file
+settings.gradle
