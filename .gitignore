@@ -8,9 +8,6 @@ build/
 # Compiled Java classes
 *.class
 
-# Compiled Gradle build scripts
-.gradle/
-
 # Logs and other temporary files
 *.log
 *.tmp
