@@ -18,14 +18,11 @@ and handle other server-side tasks.
     my-servlet-project/
     ├── src/
     │   ├── main/
-    │   │   ├── java/
-    │   │   │   └── mars/
-    │   │   │       └── hatton/
-    │   │   │           └── servlet/
-    │   │   │               └── HelloServlet.java
-    │   │   └── webapp/
-    │   │       └── WEB-INF/
-    │   │           └── web.xml
+    │   │   └── java/
+    │   │       └── mars/
+    │   │           └── hatton/
+    │   │               └── servlet/
+    │   │                   └── HelloServlet.java
     │   └── test/
     │       └── java/
     │           └── HelloServletTest.java
@@ -49,5 +46,7 @@ We're including:
 
 ### Hello Servlet
 
-Our 
+---
+
+
 
